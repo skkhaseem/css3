@@ -1,0 +1,39 @@
+.container{
+    /* width: 100%; */
+    /* border: 2px solid black; */
+    /* position: relative; */
+}
+.itam1 , .itam2 , .itam3 ,.itam4  {
+   
+   width: 300px;
+    /* border: 2px solid black; */
+    vertical-align: top;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    }
+    
+.container{
+     /* width: 100%; */
+    /* border: 2px solid black; */
+}
+.itam5 , .itam6 , .itam7 , .itam8 {
+    width: 300px;
+    /* border: 2px solid black; */
+    vertical-align: top;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+
+    }
+    img{
+        width: 100%;
+    }
+    p{
+       background-color: aliceblue;
+       position: absolute;
+       top: -2px;%;
+       lift: -2px;;
+
+
+    }
